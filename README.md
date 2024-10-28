@@ -1,5 +1,3 @@
-# INNT_GK2
-
 Husk NPM Install
 
 Husk at slå lydløs tilstand fra, hvis I ønsker at tjekke lydmodulet.
