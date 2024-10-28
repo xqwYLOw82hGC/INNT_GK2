@@ -1,4 +1,5 @@
 Funktioner til tjek:
+
 Når placeholder-knappen Scan trykkes, skal telefonen give auditativ og haptisk feedback.
 Når timeren til tøjvask er sat skal den vise resterende tid på Scan skærmen og sende en notifikation, når timeren udløber.
 
